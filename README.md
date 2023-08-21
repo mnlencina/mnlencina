@@ -1,3 +1,4 @@
+![Portada](https://github.com/mnlencina/mnlencina/blob/main/portada%20GIT.jpg)
 ### 💫 Sobre Mi:
 
 ## Soy Full Stack Developer
